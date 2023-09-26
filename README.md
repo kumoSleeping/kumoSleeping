@@ -21,10 +21,12 @@ This is kumoSleeping. An software major student.
 - Python
 - Golang
 - Java
-
 #### 推しのアニメキャラです 
 
-《BanG Dream! バンドリ！》
+<details>
+  <summary>《BanG Dream! バンドリ！》
+</summary>
+ 
 - 戸山 香澄
 - 市ヶ谷 有咲
 - 丸山 彩
@@ -34,13 +36,27 @@ This is kumoSleeping. An software major student.
 - 千早 愛音
 - 高松 燈
 
-《虹ヶ咲学園スクールアイドル同好会》
+</details>
+
+<details>
+  <summary>《虹ヶ咲学園スクールアイドル同好会》
+  </summary>
+ 
 - 優木 せつ菜
-
-《Lycoris Recoil》
+</details>
+<details>
+  <summary>《Lycoris Recoil》</summary>
+ 
 - 錦木 千束
+</details>
 
-《少女☆歌劇 レヴュースタァライト》
+<details>
+  <summary>《少女☆歌劇 レヴュースタァライト》</summary>
+ 
 - 愛城 華恋
 - 大場 なな
+
+</details>
+
+
   
