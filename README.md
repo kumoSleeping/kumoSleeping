@@ -1,26 +1,21 @@
-## Hi there
+## kumo
 
 This is kumoSleeping. An software major student.
 
 
-## About
+####  Programming language
 
-### Languages: 
-
-- 中文：母语
-- English: Learning
-- 日本語：全然 できません  
-
-
-#### Main Programming language
-
+##### Main
 - python
  
-#### Learning Programming language
+##### Learning
 
 - Python
 - Golang
 - Java
+- Typescript
+
+
 #### 推しのアニメキャラです 
 
 <details>
