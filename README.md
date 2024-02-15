@@ -38,7 +38,7 @@ This is kumoSleeping. An software major student.
   </summary>
  
 - 優木 せつ菜
-- 中須 霞
+- 中須 かすみ
 </details>
 <details>
   <summary>《Lycoris Recoil》</summary>
