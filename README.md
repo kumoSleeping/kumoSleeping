@@ -6,30 +6,33 @@ This is kumoSleeping. An software major student.
 ####  Programming language
 
 ##### Main
-- python
+- Python
  
 ##### Learning
 
-- Python
 - Golang
-- Java
 - Typescript
 
 
 #### 推しのアニメキャラです 
+
 
 <details>
   <summary>《BanG Dream! バンドリ！》
 </summary>
  
 - 戸山 香澄
-- 市ヶ谷 有咲
-- 丸山 彩
-- 二葉 つくし
-- 倉田 ましろ
-- 長崎 そよ
 - 千早 愛音
-- 高松 燈
+
+</details>
+
+
+<details>
+  <summary>《負けヒロインが多すぎる！》
+</summary>
+ 
+- 八奈見 杏菜
+- 小鞠 知花
 
 </details>
 
@@ -39,6 +42,7 @@ This is kumoSleeping. An software major student.
  
 - 優木 せつ菜
 - 中須 かすみ
+
 </details>
 <details>
   <summary>《Lycoris Recoil》</summary>
@@ -50,7 +54,7 @@ This is kumoSleeping. An software major student.
   <summary>《少女☆歌劇 レヴュースタァライト》</summary>
  
 - 愛城 華恋
-- 大場 なな
+- 露崎 まひる
 
 </details>
 
