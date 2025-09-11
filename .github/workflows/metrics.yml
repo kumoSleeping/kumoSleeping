@@ -40,24 +40,3 @@ jobs:
           
           # Output file
           filename: github-metrics.svg
-          
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Options
-          user: kumoSleeping
-          template: classic
-          base: header, repositories, metadata
-          config_timezone: Asia/Shanghai
-          
-          # Activity statistics
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          
-          # Output file
-          filename: github-metrics-activity.svg
