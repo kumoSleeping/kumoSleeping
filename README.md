@@ -4,10 +4,13 @@ This is kumoSleeping. An software major student.
 
 ## 📊 GitHub Statistics
 
+<!-- GitHub Metrics Cards - Automatically updated daily -->
 <div align="center">
 
+### 🗓️ Contribution Calendar & Languages
 ![GitHub Metrics](https://github.com/kumoSleeping/kumoSleeping/blob/main/github-metrics.svg)
 
+### 📈 Recent Activity & Achievements  
 ![GitHub Activity Metrics](https://github.com/kumoSleeping/kumoSleeping/blob/main/github-metrics-activity.svg)
 
 </div>
