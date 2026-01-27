@@ -1,7 +1,8 @@
-**This is kumoSleeping. An software major student.**
+**kumoSleeping**
 
-可以熟练使用 Python, 开发其他语言项目会出现重度 vibe 依赖.  
-追求轻量化、跨平台、易部署, 比较喜欢简洁的设计风格.
+I am a Software Engineering student interning at a cloud computing company.   
+I am proficient in Python, but when exploring other tech stacks, I rely on vibe coding and the idiomatic nuances of the language.   
+I am a staunch advocate for lightweight, cross-platform, and easy-to-deploy solutions, with a deep appreciation for minimalist design.   
 
 ![GitHub Metrics](https://github.com/kumoSleeping/kumoSleeping/blob/main/github-metrics.svg)
 
