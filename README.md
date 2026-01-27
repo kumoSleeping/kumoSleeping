@@ -1,6 +1,7 @@
 **This is kumoSleeping. An software major student.**
 
-目前只能熟练使用 Python, 其他语言多少需要协助一些 vibe .  
+可以熟练使用 Python, 开发其他语言项目会出现重度 vibe 依赖.  
+追求轻量化、跨平台、易部署, 比较喜欢简洁的设计风格.
 
 ![GitHub Metrics](https://github.com/kumoSleeping/kumoSleeping/blob/main/github-metrics.svg)
 
